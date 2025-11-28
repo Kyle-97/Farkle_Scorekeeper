@@ -1,0 +1,15 @@
+{
+  "short_name": "Farkle",
+  "name": "Farkle Scorekeeper",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#b91c1c",
+  "display": "standalone",
+  "theme_color": "#b91c1c"
+}
